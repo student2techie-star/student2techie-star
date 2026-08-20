@@ -274,7 +274,7 @@ Step 5 → Onboard and start building! 🚀
 
 | Platform | Link |
 |:---:|:---:|
-| 🌐 **Website** | [student2techie.com](https://student2techie.com) |
+| 🌐 **Website** | [student2techie.com](https://student2techie.in) |
 | 📧 **Email** | [contact@student2techie.com](mailto:contact@student2techie.com) |
 | 💼 **LinkedIn** | [linkedin.com/company/student2techie](https://linkedin.com/company/student2techie) |
 | 📸 **Instagram** | [@student2techie](https://instagram.com/student2techie) |
